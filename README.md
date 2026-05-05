@@ -62,7 +62,7 @@ Before running locally, make sure you have:
 ### 1) Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/PrAnSH-M/scheduling_platform.git
 cd scheduling_platform/slotify
 ```
 
